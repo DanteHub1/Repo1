@@ -1,0 +1,35 @@
+https://www.superdatascience.com/pages/deep-learning
+Ob
+try anaconda on p 
+supuestos:
+independencia
+normalidad
+homeostacidad
+multicolinealidad
+
+test training 30 70 por experiencia
+en cambio usar teoria
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
